@@ -1,0 +1,14 @@
+{
+  "name": "Özteknik Rekor · İş Takip",
+  "short_name": "Özteknik",
+  "description": "Sipariş, teklif, sevkiyat ve cari takibi — Özteknik Rekor Hidrolik",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F5F8",
+  "theme_color": "#0F2D5E",
+  "lang": "tr",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
